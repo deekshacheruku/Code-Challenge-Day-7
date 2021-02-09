@@ -8,7 +8,8 @@
 
 // Write the function to find the otherAngle obtained.
 function otherAngle(a, b) {
-       //your code here
+  //your code here
+  return (180-a-b)
 
   }
 
